@@ -1,0 +1,84 @@
+@charset "UTF-8";
+.login-box {
+  width: 25%;
+  height: 10%;
+  background: #fff;
+  color: #000;
+ 	margin: 5% 37% 0% 37%;
+  padding: 15px 15px;
+	border: 2px solid grey;
+	border-radius: 5%;
+	text-align: center;
+	box-shadow: 2px 4px 5px black;
+}
+
+h2 {
+	color: #008080;
+  text-align: center;
+  font-size: 30px;
+  font-weight: normal;
+  font-family: Cursive;
+  	text-decoration: underline #008080;
+}
+
+.login-box input[type="text"],
+.login-box input[type="password"],
+.login-box select {
+  width: 70%;
+  margin: 5% 0%;
+  border: none;
+  border-bottom: 1px solid #000;
+  outline: none;
+  background: transparent;
+  text-align: center;
+  font-size: 15px;
+  font-weight: normal;
+  font-family: Cursive;
+}
+
+.login-box select {
+	width:50%;
+	margin-bottom: 5%;
+}
+
+.login-box button[type="submit"] {
+  background:  #008080;
+  color: #fff;
+  border: 1px solid #1abc9c;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 30%;
+  margin: 20px 0;
+  padding: 7px 10px;
+  font-size: 20px;
+}
+
+.login-box button[type="submit"]:hover {
+	scale: 1.05;
+}
+
+.registerme a{
+	margin-top: 10%;
+	color:  #008080;
+  font-size: 17px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.registerme a:hover{
+	color: #000;
+	text-decoration: none;
+}
+#backbut {
+  background-color: #45a049;
+  border: 1px solid #45a049;
+  cursor: pointer;
+  color: white;
+  padding: 2% 5%;
+  width: 46%;
+  margin: 5% 27%;
+}
+
+#backbut:hover {
+  background-color: black;
+}

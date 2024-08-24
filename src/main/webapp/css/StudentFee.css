@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+.maincon{
+	width: 77%;
+	margin: 1% 1% 0% 22%;
+	padding-top: 3%;
+}
+
+p{
+  color: #cc0052;
+  font-size: 25px;
+  font-family: Verdana;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.form-wrapper {
+  padding: 3% 0% 0% 30%;	
+}
+
+.form-item {
+  margin-bottom: 5%;
+}
+
+label {
+  display: inline-block;
+  font-weight: bold;
+  width:30%;
+  font-size: 18px;
+}
+
+input{
+	width: 35%;
+	font-size: 18px;
+}
+
+span{
+	display: inline-block;
+	font-size: 18px;
+}
+
+

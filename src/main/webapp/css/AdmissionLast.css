@@ -1,0 +1,39 @@
+@charset "UTF-8";
+.container{
+	width: 80%;
+	border: 1px solid black;
+	margin: 5% 10%;
+}
+.contactmsg,
+.successmsg,
+.backtohome{
+	font-size: 25px;
+  font-weight: normal;
+  font-family: Verdana;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.successmsg span{
+	color: red;
+	 font-weight: 700;
+	 font-family: Cursive;
+}
+
+.backtohome button{
+	width: 17%;
+	margin: 0% 35%;
+	background-color: rgb(64, 128, 128);
+	padding: 7px 1px;
+	  border-radius: 5px;
+	  border: none;
+	  color: #fff;
+	  cursor: pointer;
+	  font-size: 17px;
+	  font-weight: bold;
+	  margin-top: 10px;
+}
+
+.backtohome button:hover {
+	transform: scale(1.1);
+}

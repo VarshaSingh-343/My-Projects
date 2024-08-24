@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+.homepage {
+	width: 90%;
+	margin: 1% 5%;
+	border: 1px solid grey;
+	border-radius: 3px;
+}
+
+.about{
+	border:1px solid grey;
+	border-radius: 3px;
+	padding: 1.5%;
+	padding-left: 3%;
+	background-color: #ffeee6;
+}
+
+h1 {
+	color: #ff7733;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: Verdana;
+	margin-bottom: 24px;
+	text-align: center;
+}
+
+p{
+	font-size: 17px;
+}
+
+.key-features {
+  display: flex;
+  align-items: center;
+  font-size: 18px;  
+}
+
+.text {
+  flex: 1;
+}
+
+.listname li{
+	padding: 1%;
+}
+
+.image {
+  flex: 1;
+}
+
+.image img {
+  max-width: 50%;
+}
+

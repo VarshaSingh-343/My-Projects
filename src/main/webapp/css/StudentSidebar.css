@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+.strip {
+  position: fixed;
+  top: 0;
+  left:0;
+  background-color: #008080;
+  width: 100%;
+  height: 7%;
+}
+
+#sidelogo{
+	color: #008080;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 20px;
+	margin-bottom: 10%;
+	 background-color: white;
+	 padding: 9px 0px;
+}
+
+.sidebar {
+	position: fixed;
+	width: 20%;
+	height: 100%;
+	top:0;
+	left: 0;
+	background-color: #008080;
+	text-align:center;
+}
+
+.sidebar-option {
+	padding: 20px 10px;
+	font-size: 20px;
+}
+
+.sidebar-option a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.sidebar-option a:hover {
+	color: #00ffff;
+	scale: 1.05;
+	font-size: 22px;
+}

@@ -1,0 +1,71 @@
+@charset "UTF-8";
+
+.register-box {
+  width: 25%;
+  background: #fff;
+  color: #000;
+ 	margin: 2% 37% 0% 37%;
+  padding: 15px 15px;
+	border: 2px solid grey;
+	border-radius: 1%;
+	text-align: center;
+	box-shadow: 2px 4px 5px black;
+}
+
+h2 {
+	color: #8080ff;
+  text-align: center;
+  font-size: 30px;
+  font-weight: normal;
+  font-family: Cursive;
+  	text-decoration: underline #8080ff;
+}
+
+.register-box input[type="text"],
+.register-box input[type="password"],
+.register-box input[type="email"],
+.register-box select {
+  width: 70%;
+  margin: 5% 0%;
+  border: none;
+  border-bottom: 1px solid #000;
+  outline: none;
+  background: transparent;
+  text-align: center;
+  font-size: 15px;
+  font-weight: normal;
+  font-family: Cursive;
+}
+
+.register-box select {
+	width:50%;
+	margin-bottom: 5%;
+}
+
+.register-box button[type="submit"] {
+  background:  #5a98b6;
+  color: #fff;
+  border: 1px solid #8080ff;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 30%;
+  margin: 20px 0;
+  padding: 7px 10px;
+  font-size: 20px;
+}
+
+.register-box button[type="submit"]:hover {
+	scale: 1;
+}
+
+#hiddenfi{
+	font-size: 17px;
+	width: 44%;
+	margin: 1% 28%;
+	padding: 0.5%;
+	text-align: center;
+	border: 1.5px solid red;
+	border-radius: 15px;
+	color: darkred;
+}
+

@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+.homepage {
+	width: 90%;
+	margin: 1% 5%;
+	border: 1px solid grey;
+	border-radius: 3px;
+}
+
+.about{
+	border:1px solid grey;
+	border-radius: 3px;
+	padding: 1.5%;
+	background-color: #ffeee6;
+}
+
+h1 {
+	color: #ff7733;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: Verdana;
+	margin-bottom: 24px;
+	text-align: center;
+}
+
+.courses-container {
+  display: flex;
+  flex-wrap: wrap;
+	margin: 12px;
+}
+
+.course {
+  width: 300px;
+  margin: 10px;
+  border: 2px solid white;
+  padding: 10px; 
+}
+
+.details {
+  font-weight: normal; 
+  font-size: 16px;
+  padding: 1.1%;
+  font-style: italic;
+}
+
+

@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+.maincon {
+	width: 77%;
+	margin: 1% 1% 0% 22%;
+	padding-top: 3%;
+}
+
+h1 {
+	color: #ff1aff;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: Verdana;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.tablecontent {
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+table {
+	border: 1px solid white;
+	width: 100%;
+	min-width: 900px;
+}
+
+td {
+	border: 2px solid #ff9933;
+	padding: 1.5% 0%;
+	padding-right: 1%;
+}
+
+th {
+	border: 2px solid #ff661a;
+	padding: 1.5% 0%;
+	padding-right: 1%;
+	
+}
+
+tr:nth-child(even) {
+  background-color: #ffffff;
+}
+
+tr:nth-child(odd) {
+  background-color: #ffe6cc;
+}
+
+#choosecourse{
+	font-size: 17px;
+}
+
+#choosefee{
+	font-size: 17px;
+}
+
+#feestatus{
+	font-size: 14px;
+	margin: 1%;	
+}
+
+#course{
+	font-size: 14px;
+	margin: 1%;	
+}
+
+#searchbut{
+	margin-left: 1%;
+	Background-color: #ffccff;
+	border: 2px solid #ffccff;
+	font-weight: bold;
+}
