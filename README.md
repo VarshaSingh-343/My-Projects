@@ -35,4 +35,4 @@ The **Student Management System** is a Java-based web application using Java Ser
 ### Instructions:
 
 1. **Replace `yourusername`** with your GitHub username or the appropriate repository path.
-2. **Feel free to modify this template to better fit your project’s specifics or personal preferences!**
+2. Feel free to modify this template to better fit your project’s specifics or personal preferences!
