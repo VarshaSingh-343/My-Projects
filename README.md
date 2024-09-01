@@ -20,7 +20,7 @@ The **Student Management System** is a Java-based web application using Java Ser
 
 1. **Clone the Repository:**
    bash
-   git clone https://github.com/yourusername/My-Projects.git
+   git clone git@github.com:VarshaSingh-343/studentManagementSystem.git
 
 2. **Set Up the Database:**
     -Create the necessary tables and schema in MySQL based on the application's requirements.
